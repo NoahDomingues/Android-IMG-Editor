@@ -2,7 +2,7 @@
 
 A simple editor tool for Android `system.img` and `vendor.img` ROM files. 💿
 
-[<img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5">](https://discord.gg/android-img-editor)
+[<img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5">](https://discord.gg/3zbfaTNN7V)
 
 ## 📥 Installation
 
@@ -33,7 +33,7 @@ Android IMG Editor was developed as a simple, fast tool for ROM modders and deve
 
 ## 🤝 Support
 
-If you run into issues or want to contribute, check out our **[Discord server](https://discord.gg/android-img-editor)** or open a GitHub issue! Contributions, feature suggestions, and pull requests are always welcome.
+If you run into issues or want to contribute, check out our **[Discord server](https://discord.gg/3zbfaTNN7V)** or open a GitHub issue! Contributions, feature suggestions, and pull requests are always welcome.
 
 [<img src="https://github.com/user-attachments/assets/f61046f5-1dc5-4b0c-87f8-4a94d6cbac96">](https://discord.gg/3zbfaTNN7V)
 
