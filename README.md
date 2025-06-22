@@ -1,6 +1,6 @@
 # Android IMG Editor
 
-A simple editor tool for Android `.img` files. 💿
+A simple editor tool for Android `system.img` and `vendor.img` ROM files. 💿
 
 [<img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5">](https://discord.gg/android-img-editor)
 
