@@ -24,8 +24,7 @@ Once downloaded, launch the executable from your terminal or file explorer.
 
 Launch the tool, then follow the on-screen instructions to use. Each command, such as unpacking or repacking, will have an associated number printed before it. Enter the number of the command you would like to use, followed by Enter.
 
-![Screenshot of Android IMG Editor](https://github.com/user-attachments/assets/e65a6e84-0dfb-4672-82bb-d4a60ddfd674)
-
+![Screenshot of Android IMG Editor](https://github.com/user-attachments/assets/933f9798-cdf1-4d61-9285-95f031d466e7)
 
 ## 📦 Supported Image Formats
 
