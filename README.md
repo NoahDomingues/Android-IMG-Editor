@@ -39,6 +39,6 @@ If you run into issues or want to contribute, check out our **[Discord server](h
 
 **⭐ If this tool was of any use to you, please consider giving it a Star - it would make my day! ⭐**
 
-Thanks to [JordanEJ](https://github.com/JordanEJ) for building the [initial project](https://github.com/JordanEJ/IMG-Editor-Tool) from which this was forked.
+Thanks to **[JordanEJ](https://github.com/JordanEJ)** for building the [initial project](https://github.com/JordanEJ/IMG-Editor-Tool) from which this was forked.
 
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/android-img-editor)
