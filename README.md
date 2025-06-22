@@ -33,8 +33,10 @@ Android IMG Editor was developed as a simple, fast tool for ROM modders and deve
 
 If you run into issues or want to contribute, check out our **[Discord server](https://discord.gg/android-img-editor)** or open a GitHub issue! Contributions, feature suggestions, and pull requests are always welcome.
 
-[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/android-img-editor)
+[<img src="https://github.com/user-attachments/assets/f61046f5-1dc5-4b0c-87f8-4a94d6cbac96">](https://discord.gg/3zbfaTNN7V)
 
 **⭐ If this tool was of any use to you, please consider giving it a Star - it would make my day! ⭐**
 
 Thanks to [JordanEJ](https://github.com/JordanEJ) for building the [initial project](https://github.com/JordanEJ/IMG-Editor-Tool) from which this was forked.
+
+[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/android-img-editor)
