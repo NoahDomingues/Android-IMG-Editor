@@ -1,1 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>🧪 Android IMG Editor by Noah Domingues</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background-color: #121212;
+      color: #E0E0E0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2, h3, h4 {
+      color: #FFFFFF;
+      margin-top: 1.2em;
+      margin-bottom: 0.5em;
+      line-height: 1.2;
+    }
+    p {
+      margin-bottom: 1.2em;
+    }
+    a {
+      color: #BB86FC;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+    a:hover {
+      text-decoration: underline;
+      color: #D0A9F5;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
+    }
+    code {
+      background-color: #333;
+      color: #FFC107;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-family: Consolas, "Courier New", monospace;
+    }
+    pre {
+      background-color: #333;
+      padding: 1rem;
+      border-radius: 4px;
+      overflow-x: auto;
+      margin-bottom: 1.2em;
+    }
+    ul {
+      list-style: disc;
+      padding-left: 1.5rem;
+      margin-bottom: 1em;
+    }
+    li {
+      margin-bottom: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Android IMG Editor</h1>
+    <p>
+      <a href="https://discord.gg/android-img-editor">
+        <img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5" alt="">
+      </a>
+    </p>
 
+    <h2>📥 Installation</h2>
+    <p>Android IMG Editor is a portable application—you don’t need a formal installer. Just grab the latest build from our <strong><a href="https://github.com/NoahDomingues/Android-IMG-Editor/releases">Releases</a></strong> section:</p>
+    <ul>
+      <li><strong>Windows</strong>: Download the <code>.exe</code> and double-click the downloaded file to launch.</li>
+      <li><strong>Linux</strong>: Install WINE, then run the following command via terminal: <code>wine AndroidIMGEditor</code>.</li>
+    </ul>
+    <p>Once downloaded, launch the executable from your terminal or file explorer.</p>
+
+    <h2>🛠️ Features</h2>
+    <ul>
+      <li>Unpack <strong>system.img</strong> and <strong>vendor.img</strong></li>
+      <li>Repack edited directories back into valid Android images</li>
+      <li>Support both sparse and raw ext4 formats</li>
+      <li>Browse and modify image contents without needing an emulator</li>
+    </ul>
+
+    <h2>📦 Supported Image Formats</h2>
+    <ul>
+      <li>Android sparse images (<code>*.img</code> / <code>*.simg</code>)</li>
+      <li>Raw ext4 images</li>
+      <li>System and vendor images</li>
+      <li><code>.vbmeta</code> verification metadata</li>
+    </ul>
+
+    <h2>🧪 Origin & Use Case</h2>
+    <p>
+      Android IMG Editor was developed as a simple, fast tool for ROM modders and developers needing to tweak Android images. 
+      From injecting custom apps to modifying vendor blobs, it’s the perfect companion for low-level Android system tweaks without full device flashing.
+    </p>
+
+    <h2>🤝 Support</h2>
+    <p>
+      If you run into issues or want to contribute, check out our <strong><a href="https://discord.gg/android-img-editor">Discord server</a></strong> or open a GitHub issue! 
+      Contributions, feature suggestions, and pull requests are always welcome.
+    </p>
+    <p>
+      <a href="https://discord.gg/3zbfaTNN7V">
+        <img src="https://github.com/user-attachments/assets/f61046f5-1dc5-4b0c-87f8-4a94d6cbac96" alt="">
+      </a>
+    </p>
+    <p><strong>⭐ If this tool was of any use to you, please consider giving it a Star – it would make my day! ⭐</strong></p>
+    <p>
+      Thanks to <a href="https://github.com/JordanEJ">JordanEJ</a> for building the 
+      <a href="https://github.com/JordanEJ/IMG-Editor-Tool">initial project</a> from which this was forked.
+    </p>
+    <p>
+      <a href="https://discord.gg/android-img-editor">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      </a>
+    </p>
+  </div>
+</body>
+</html>
