@@ -15,7 +15,7 @@ Once downloaded, launch the executable from your terminal or file explorer.
 
 ## 🛠️ Features
 
-- Unpack **system.img** and **vendor.img**
+- Unpack **`system.img`** and **`vendor.img`**
 - Repack edited directories back into valid Android images
 - Support both sparse and raw ext4 formats
 - Browse and modify image contents without needing an emulator
