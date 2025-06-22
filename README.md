@@ -22,7 +22,7 @@ Once downloaded, launch the executable from your terminal or file explorer.
 
 ## 📦 Supported Image Formats
 
-- Android sparse images (`*.img` / `*.simg`)
+- Android sparse images (`*.img`)
 - Raw ext4 images
 - System and vendor images
 - `.vbmeta` verification metadata
