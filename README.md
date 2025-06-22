@@ -20,6 +20,13 @@ Once downloaded, launch the executable from your terminal or file explorer.
 - Support both sparse and raw ext4 formats
 - Browse and modify image contents without needing an emulator
 
+## 💡 Usage
+
+Launch the tool, then follow the on-screen instructions to use. Each command, such as unpacking or repacking, will have an associated number printed before it. Enter the number of the command you would like to use, followed by Enter.
+
+![Screenshot of Android IMG Editor](https://github.com/user-attachments/assets/e65a6e84-0dfb-4672-82bb-d4a60ddfd674)
+
+
 ## 📦 Supported Image Formats
 
 - Android images (`*.img`)
@@ -28,7 +35,7 @@ Once downloaded, launch the executable from your terminal or file explorer.
 
 ## 🧪 Origin & Use Case
 
-Android IMG Editor was developed as a simple, fast tool for ROM modders and developers needing to tweak Android images. From injecting custom apps to modifying vendor blobs, it’s the perfect companion for low-level Android system tweaks without full device flashing.
+Android IMG Editor was developed as a simple, fast tool for ROM modders and developers needing to tweak Android images. From injecting custom apps to modifying vendor blobs, it’s the perfect companion for low-level Android system tweaks without requiring a full Linux setup.
 
 ## 🤝 Support
 
