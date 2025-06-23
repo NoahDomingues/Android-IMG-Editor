@@ -1,6 +1,6 @@
 # 🔒 Security
 
-[<img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5">](https://discord.gg/android-img-editor)
+[<img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5">](https://discord.gg/3zbfaTNN7V)
 
 We take the security of our software products and services seriously, including **[Android IMG Editor](https://github.com/NoahDomingues/Android-IMG-Editor)**.
 
