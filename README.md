@@ -42,6 +42,13 @@ If you run into issues or want to contribute, check out our **[Discord server](h
 
 [<img src="https://github.com/user-attachments/assets/f61046f5-1dc5-4b0c-87f8-4a94d6cbac96">](https://discord.gg/3zbfaTNN7V)
 
+## 👥 Contributors
+
+[![Contributors][contributors-image]][contributors-link]
+
+[contributors-image]: https://contrib.rocks/image?repo=NoahDomingues/Android-IMG-Editor
+[contributors-link]: https://github.com/NoahDomingues/Android-IMG-Editor/graphs/contributors
+
 **⭐ If this tool was of any use to you, please consider giving it a Star - it would make my day! ⭐**
 
 Thanks to **[JordanEJ](https://github.com/JordanEJ)** for building the [initial project](https://github.com/JordanEJ/IMG-Editor-Tool) from which this was forked.
