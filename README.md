@@ -9,7 +9,7 @@ A simple editor tool for Android `system.img` and `vendor.img` ROM files. 💿
 Android IMG Editor is a portable application—you don’t need a formal installer. Just grab the latest build from our **[Releases](https://github.com/NoahDomingues/Android-IMG-Editor/releases)** section:
 
 - **Windows**: Download the `.exe` and double-click the downloaded file to launch.
-- **Linux**: Install [WINE](https://linuxconfig.org/installing-wine), download the `.exe`, then run the following command via terminal: `wine AndroidIMGEditor`.
+- **Linux**: Install [WINE](https://linuxconfig.org/installing-wine), download the `.exe`, then run the following command via terminal: `wine AndroidIMG.Editor.GUI` (GUI version) or `wine Android.IMG.Editor.console` (console version).
 
 Once downloaded, launch the executable from your terminal or file explorer. There are both console and GUI versions of Android IMG Editor, their functionality is identical so choose whichever option suits you best.
 
@@ -36,8 +36,7 @@ Launch the tool, then use the buttons to select the desired functions.
 - The "i" button in the top left corner displays some basic information and links about the program. 
 
 ### ⌨ Console version
-
-![Screenshot of Android IMG Editor - console version](https://github.com/user-attachments/assets/933f9798-cdf1-4d61-9285-95f031d466e7)
+![Screenshot of Android IMG Editor - console version](https://github.com/user-attachments/assets/4d0b78f2-afef-48a5-b02a-9ab7905cf4e6)
 
 Launch the tool, then follow the on-screen instructions to use it. Each command, such as unpacking or repacking, will have an associated number printed before it. Enter the number of the command you would like to use, followed by Enter.
 
