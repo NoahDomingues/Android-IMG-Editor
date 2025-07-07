@@ -11,7 +11,7 @@ Android IMG Editor is a portable application—you don’t need a formal install
 - **Windows**: Download the `.exe` and double-click the downloaded file to launch.
 - **Linux**: Install [WINE](https://linuxconfig.org/installing-wine), download the `.exe`, then run the following command via terminal: `wine AndroidIMGEditor`.
 
-Once downloaded, launch the executable from your terminal or file explorer.
+Once downloaded, launch the executable from your terminal or file explorer. There are both console and GUI versions of Android IMG Editor, their functionality is identical so choose whichever option suits you best.
 
 ## 🛠️ Features
 
