@@ -22,9 +22,24 @@ Once downloaded, launch the executable from your terminal or file explorer.
 
 ## 💡 Usage
 
-Launch the tool, then follow the on-screen instructions to use it. Each command, such as unpacking or repacking, will have an associated number printed before it. Enter the number of the command you would like to use, followed by Enter.
+### 🖱 GUI version
 
-![Screenshot of Android IMG Editor](https://github.com/user-attachments/assets/933f9798-cdf1-4d61-9285-95f031d466e7)
+![Screenshot of Android IMG Editor - GUI version](https://github.com/user-attachments/assets/140bcc8b-c9a1-4e1a-92c3-90d9d353e35a)
+
+Launch the tool, then use the buttons to select the desired functions. 
+
+- The main buttons allow for unpacking and repacking `system.img`, `vendor.img`, or both simultaneously.
+- The folder button next to the "Unpack All" button allows you to manually choose an input `.img` file and output directory using File Explorer popups. Note that when using this function, output directory paths *must not* contain spaces, otherwise the tool will simply unpack the `.img` to the path excluding anything after the space.
+- The Cancel button to interrupt the currently-ongoing operation (note that there will be a 7-second delay before you can start a new operation).
+- The progress bar displays the progress of an ongoing operation, and the log box displays textual updates, warnings, and error messages.
+- The folder button in the top right corner allows you to clear (delete) unpacked ROM files in the current working directory (note that this action is irreversible).
+- The "i" button in the top left corner displays some basic information and links about the program. 
+
+### ⌨ Console version
+
+![Screenshot of Android IMG Editor - console version](https://github.com/user-attachments/assets/933f9798-cdf1-4d61-9285-95f031d466e7)
+
+Launch the tool, then follow the on-screen instructions to use it. Each command, such as unpacking or repacking, will have an associated number printed before it. Enter the number of the command you would like to use, followed by Enter.
 
 ## 📦 Supported Image Formats
 
