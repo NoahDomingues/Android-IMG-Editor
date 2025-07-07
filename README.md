@@ -24,7 +24,7 @@ Once downloaded, launch the executable from your terminal or file explorer. Ther
 
 ### 🖱 GUI version
 
-![Screenshot of Android IMG Editor - GUI version](https://github.com/user-attachments/assets/140bcc8b-c9a1-4e1a-92c3-90d9d353e35a)
+![Screenshot of Android IMG Editor - GUI version](https://github.com/user-attachments/assets/41a4232e-833c-47aa-9e15-7c4198556dec)
 
 Launch the tool, then use the buttons to select the desired functions. 
 
