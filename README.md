@@ -30,7 +30,7 @@ Launch the tool, then use the buttons to select the desired functions.
 
 - The main buttons allow for unpacking and repacking `system.img`, `vendor.img`, or both simultaneously.
 - The **folder button** next to the Unpack All button allows you to manually choose an input `.img` file and output directory using File Explorer popups. Note that when using this function, output directory paths *must not* contain spaces, otherwise the tool will simply unpack the `.img` to the path excluding anything after the space.
-- The **Cancel** button to interrupt the currently-ongoing operation (note that there will be a 7-second delay before you can start a new operation).
+- The **Cancel** button interrupts the currently-ongoing operation (note that there will be a 7-second delay before you can start a new operation).
 - The **progress bar** displays the progress of an ongoing operation, and the log box displays textual updates, warnings, and error messages.
 - The **folder button** in the top right corner allows you to clear (delete) unpacked ROM files in the current working directory (note that this action is irreversible).
 - The **"i" button** in the top left corner displays some basic information and links about the program. 
