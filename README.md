@@ -6,7 +6,7 @@ A simple editor tool for Android `system.img` and `vendor.img` ROM files. 💿
 
 ## 📥 Installation
 
-Android IMG Editor is a portable application—you don’t need a formal installer. Just grab the latest build from our **[Releases](https://github.com/NoahDomingues/Android-IMG-Editor/releases)** section:
+Android IMG Editor is a portable application; you don’t need a formal installer. Just grab the latest build from our **[Releases](https://github.com/NoahDomingues/Android-IMG-Editor/releases)** section:
 
 - **Windows**: Download the `.exe` and double-click the downloaded file to launch.
 - **Linux**: Install [WINE](https://linuxconfig.org/installing-wine), download the `.exe`, then run the following command via terminal: `wine AndroidIMG.Editor.GUI` (GUI version) or `wine Android.IMG.Editor.console` (console version).
